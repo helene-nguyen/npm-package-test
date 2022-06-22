@@ -63,7 +63,7 @@ Write command to link the package to test it locally
 npm link
 ```
 
-![link](../images/link.jpg)
+![link](./images/link.jpg)
 
 ## Test folder
 Create in the test-folder a script.js using the function in the package
@@ -87,7 +87,7 @@ npm link is-hello
 --not npm install is-hello because we test
 ```
 
-![npm link](../images/npm-link.gif)
+![npm link](./images/npm-link.gif)
 
 ____
 
@@ -101,6 +101,6 @@ And launch
 node script.js
 ```
 
-![output](../images/true.jpg)
+![output](./images/true.jpg)
 
 Soucre to do that [here](https://www.youtube.com/watch?v=J4b_T-qH3BY)
