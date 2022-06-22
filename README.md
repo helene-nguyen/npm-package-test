@@ -12,7 +12,7 @@ Open a folder with 2 new folder :
 - package
 - test-folder
 
-### Initialize folder package wth git
+### Initialize folder package with git
 
 It adds a README file to give all informations about the package
 
